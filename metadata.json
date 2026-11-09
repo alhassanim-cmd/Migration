@@ -1,0 +1,6 @@
+{
+  "name": "DeadZone: Last Stand",
+  "description": "Fast-paced mobile-first zombie survival roguelite. Survive escalating hordes, collect XP, upgrade weapons, unlock evolutions, battle bosses, and upgrade permanent stats in The Armory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
